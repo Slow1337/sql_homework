@@ -36,10 +36,10 @@ def track_contains(keyword: str):
     SELECT track_name FROM tracks WHERE track_name LIKE '%%{keyword}%%';""").fetchall()
     return x
 
-print(name_year_of_album(2018)) # будет пустой список, потому что их в инсертах нет, простите
+print(name_year_of_album(2018))
 print(longest_track())
 print(longer_than_seconds(210))
 print(published_between(2018, 2020))
 print(one_word_bandname())
-print(track_contains('my')) # их там тоже нет
-print(track_contains('мой')) # и их нет
+print(track_contains('my'))
+print(track_contains('мой'))

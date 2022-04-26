@@ -17,7 +17,7 @@ random_albums = {
     'Mad Season': 2017,
     'Live By The Code': 2013,
     'Lost Forever // Lost Together': 2014, 
-    'Laugh Tracks': 2016, 
+    'Laugh Tracks': 2018, 
     'American Idiot': 2004,
 }
 random_mixtapes = {
@@ -104,6 +104,16 @@ random_tracks = [
     {
         'length': 300,
         'name': 'To this',
+        'album': 'American Idiot'
+    },
+    {
+        'length': 300,
+        'name': 'My',
+        'album': 'American Idiot'
+    },
+    {
+        'length': 300,
+        'name': 'Мой',
         'album': 'American Idiot'
     }
 ]
