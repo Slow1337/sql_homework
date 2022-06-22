@@ -19,6 +19,7 @@ random_albums = {
     'Lost Forever // Lost Together': 2014, 
     'Laugh Tracks': 2018, 
     'American Idiot': 2004,
+    'Just for select query': 2020
 }
 random_mixtapes = {
     2015: 'Awesome Mixtape',
